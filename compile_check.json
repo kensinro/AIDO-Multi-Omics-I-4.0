@@ -1,0 +1,22 @@
+[
+  {
+    "path": "src/01_internal_benchmark_v3_NARGAB.py",
+    "status": "ok"
+  },
+  {
+    "path": "src/02_external_validation_v5_CLINICAL_OVERRIDES.py",
+    "status": "ok"
+  },
+  {
+    "path": "src/03_evidence_packaging_v1.py",
+    "status": "ok"
+  },
+  {
+    "path": "legacy/AIDO-Multi-Omics-I-4.0-V1_legacy_utf8.py",
+    "status": "ok"
+  },
+  {
+    "path": "legacy/AIDO-Multi-Omics-I-4.0-V2_legacy_utf8.py",
+    "status": "ok"
+  }
+]
